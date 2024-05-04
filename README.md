@@ -8,7 +8,7 @@ Below are instructions on how to use the application:
 
 ### Usage
 1.  Clone the Repository <br>
-    - git clone https://github.com/ashishmisal23/Todos-List.git
+    - git clone https://github.com/bhattaman0001/react-todo.git
     
 2.  Navigate to the Project Directory <br>
     - cd Todos-List
@@ -35,13 +35,13 @@ Below are instructions on how to use the application:
 4.  No Todos to Display <br>
     - If there are no todo items, a message indicating "No Todos to Display" will be shown.
 
-### Live Demo
+<!-- ### Live Demo
     - You can also access a live demo of this project here. <br>
-    https://todos-list-ashishmisal.vercel.app/
+    https://todos-list-ashishmisal.vercel.app/ -->
 
 ### GitHub Repository
     The source code for this project is available on GitHub: Todos-List. <br>
-    https://github.com/ashishmisal23/Todos-List.git
+    https://github.com/bhattaman0001/react-todo
 
 ### Feel free to explore the codebase, contribute, or suggest improvements.
-    You can mail me on : ashishmisal23@gmail.com
+    You can mail me on : aman.iiitu@gmail.com
